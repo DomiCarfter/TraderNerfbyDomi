@@ -136,7 +136,6 @@
 		
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" value="1"/>
 	</quest>
@@ -149,7 +148,6 @@
 		
 		<reward type="Exp" value="1000"/>
 	
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
@@ -166,7 +164,6 @@
 	
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" value="1"/>
 	</quest>
@@ -181,7 +178,6 @@
 	
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" value="1"/>
 	</quest>
@@ -194,7 +190,6 @@
 		
 		<reward type="Exp" value="1000"/>
 	
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
@@ -213,7 +208,6 @@
 	
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" value="1"/>
 	</quest>
@@ -226,7 +220,6 @@
 		
 		<reward type="Exp" value="1000"/>
 	
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
@@ -243,7 +236,6 @@
 	
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" value="1"/>
 	</quest>
@@ -256,7 +248,6 @@
 		
 		<reward type="Exp" value="1000"/>
 	
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" ischosen="true" value="1"/>
@@ -272,11 +263,11 @@
 		<property name="completion_key" value="hunter_completion"/>
 		
 		<reward type="Exp" value="10000"/>
-		<reward type="Item" id="ammoBundleArrowIron" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundle9mmBulletBall" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundleShotgunShell" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundle762mmBulletBall" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundleJunkTurretRegular" ischosen="true" isfixed="true" value="5"/>
+		<reward type="Item" id="ammoBundleArrowIron" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundle9mmBulletBall" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundleShotgunShell" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundle762mmBulletBall" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundleJunkTurretRegular" ischosen="true" isfixed="true" value="2"/>
 	</quest>
 
 <!-- Kill_Rabbits_Challenge_Reward -->
@@ -287,7 +278,6 @@
 		<variable name="completion" value="hunter_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardReading if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" isfixed="true" ischosen="true" value="1"/>
@@ -302,7 +292,6 @@
 		<variable name="completion" value="hunter_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardReading if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" isfixed="true" ischosen="true" value="1"/>
@@ -349,7 +338,6 @@
 		<reward type="Exp" value="10000"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" isfixed="true" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" isfixed="true" value="1"/>
 	</quest>
@@ -362,7 +350,6 @@
 		<variable name="completion" value="hunter_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardReading if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" isfixed="true" ischosen="true" value="1"/>
@@ -424,7 +411,6 @@
 		<reward type="Exp" value="10000"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
-		<reward type="LootItem" id="groupChallengeRewardSkillMagazinesAll" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="schematicsModsAndGeneralCommon" isfixed="true" ischosen="true" value="1"/>
 		<reward type="LootItem" id="perkBooks" ischosen="true" isfixed="true" value="1"/>
 	</quest>
@@ -438,11 +424,11 @@
 		<property name="completion_key" value="zombie_slayer_completion"/>
 		
 		<reward type="Exp" value="10000"/>
-		<reward type="Item" id="ammoBundleArrowSteelAP" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundle9mmBulletAP" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundleShotgunSlug" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundle762mmBulletAP" ischosen="true" isfixed="true" value="5"/>
-		<reward type="Item" id="ammoBundleJunkTurretAP" ischosen="true" isfixed="true" value="5"/>
+		<reward type="Item" id="ammoBundleArrowSteelAP" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundle9mmBulletAP" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundleShotgunSlug" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundle762mmBulletAP" ischosen="true" isfixed="true" value="2"/>
+		<reward type="Item" id="ammoBundleJunkTurretAP" ischosen="true" isfixed="true" value="2"/>
 	</quest>
 
 <!-- Kill_Any_Zombies_Challenge_Reward -->
@@ -453,11 +439,11 @@
 		<variable name="completion" value="zombie_slayer_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardRegAmmo if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="Item" id="ammoArrowIron" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammo9mmBulletBall" ischosen="true" isfixed="true" value="300"/>
-		<reward type="Item" id="ammoShotgunShell" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammo762mmBulletBall" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammoJunkTurretRegular" ischosen="true" isfixed="true" value="1000"/>
+		<reward type="Item" id="ammoArrowIron" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammo9mmBulletBall" ischosen="true" isfixed="true" value="150"/>
+		<reward type="Item" id="ammoShotgunShell" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammo762mmBulletBall" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammoJunkTurretRegular" ischosen="true" isfixed="true" value="500"/>
 	</quest>
 
 <!-- Kill_Vulture_Challenge_Reward -->
@@ -468,11 +454,11 @@
 		<variable name="completion" value="zombie_slayer_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardRegAmmo if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="Item" id="ammoArrowSteelAP" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammo9mmBulletAP" ischosen="true" isfixed="true" value="300"/>
-		<reward type="Item" id="ammoShotgunSlug" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammo762mmBulletAP" ischosen="true" isfixed="true" value="150"/>
-		<reward type="Item" id="ammoJunkTurretAP" ischosen="true" isfixed="true" value="1000"/>
+		<reward type="Item" id="ammoArrowSteelAP" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammo9mmBulletAP" ischosen="true" isfixed="true" value="150"/>
+		<reward type="Item" id="ammoShotgunSlug" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammo762mmBulletAP" ischosen="true" isfixed="true" value="75"/>
+		<reward type="Item" id="ammoJunkTurretAP" ischosen="true" isfixed="true" value="500"/>
 	</quest>
 
 <!-- Kill_Lumberjack_Challenge_Reward -->
@@ -483,11 +469,11 @@
 		<variable name="completion" value="zombie_slayer_completion"/>
 		<!-- Challenge Rewards are localized. Update challengeKillRewardExplosives if this list is changed. -->
 		<reward type="Exp" value="10000"/>
-		<reward type="Item" id="thrownAmmoMolotovCocktail" ischosen="true" isfixed="true" value="20"/>
-		<reward type="Item" id="thrownGrenade" ischosen="true" isfixed="true" value="25"/>
-		<reward type="Item" id="thrownGrenadeContact" ischosen="true" isfixed="true" value="25"/>
-		<reward type="Item" id="thrownTimedCharge" ischosen="true" isfixed="true" value="10"/>
-		<reward type="Item" id="mineAirFilter" ischosen="true" isfixed="true" value="10"/>
+		<reward type="Item" id="thrownAmmoMolotovCocktail" ischosen="true" isfixed="true" value="10"/>
+		<reward type="Item" id="thrownGrenade" ischosen="true" isfixed="true" value="12"/>
+		<reward type="Item" id="thrownGrenadeContact" ischosen="true" isfixed="true" value="12"/>
+		<reward type="Item" id="thrownTimedCharge" ischosen="true" isfixed="true" value="5"/>
+		<reward type="Item" id="mineAirFilter" ischosen="true" isfixed="true" value="5"/>
 	</quest>
 
 <!-- Kill_Spider_Challenge_Reward -->
@@ -1587,11 +1573,7 @@
 
 		<reward type="Exp" value="500"/>
 
-		<reward type="Item" id="questRewardPipePistolBundle" ischosen="true" value="1"/>
-		<reward type="Item" id="questRewardPipeShotgunBundle" ischosen="true" value="1"/>
-		<reward type="Item" id="questRewardPipeRifleBundle" ischosen="true" value="1"/>
-		<reward type="Item" id="questRewardPipeMachineGunBundle" ischosen="true" value="1"/>
-		<reward type="Item" id="questRewardPipeBatonBundle" ischosen="true" value="1"/>
+		<reward type="Item" id="groupQuestWoodShapes" ischosen="true" value="1"/>
 	</quest>
 
 	<quest id="tier1_buried_supplies">
@@ -2538,7 +2520,6 @@
 
 		<reward type="Item" id="casinoCoin" value="2000"/>
 
-		<reward type="LootItem" id="groupQuestBicycle" ischosen="true" isfixed="true" value="2"/>
 		<reward type="Item" id="toolDewGatherer" ischosen="true" isfixed="true" value="1"/>
 		<reward type="LootItem" id="groupQuestcasinoCoinT1" ischosen="true" value="2"/>
 		<reward type="LootItem" id="groupQuestHelmetLightSchematic" ischosen="true" value="2"/>
@@ -2573,7 +2554,6 @@
 		<reward type="LootItem" id="groupQuestMiningHelmet" ischosen="true" value="3"/>
 		<reward type="LootItem" id="groupQuestFarmPlotsT2" ischosen="true" value="3"/>
 		<reward type="LootItem" id="groupQuestAmmo" ischosen="true" value="3"/>
-		<reward type="LootItem" id="groupQuestWorkbench" ischosen="true" value="3"/>
 		<reward type="LootItem" id="groupQuestNailgun" ischosen="true" value="1"/>
 		<reward type="LootItem" id="groupQuestT2Traps" ischosen="true" value="3"/>
 		<reward type="LootItem" id="groupQuestForgedIron" ischosen="true" value="3"/>

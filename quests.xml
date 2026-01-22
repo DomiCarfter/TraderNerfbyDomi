@@ -1494,7 +1494,7 @@
 		<property name="completiontype" value="TurnIn"/>
 		<property name="completion_key" value="quest_buried_supplies_completion"/>
 		<property name="shareable" value="false"/>
-		<property name="reward_choices_count" value="5"/>
+		<property name="reward_choices_count" value="1"/>
 		<property name="single_quest" value="true"/>
 		<property name="always_allow" value="true"/>
 		<property name="unique_key" value="introquest"/>
@@ -1572,8 +1572,7 @@
 		</action>
 
 		<reward type="Exp" value="500"/>
-
-		<reward type="Item" id="groupQuestWoodShapes" ischosen="true" value="1"/>
+		<reward type="LootItem" id="groupQuestWoodShapes" ischosen="true" value="2"/>
 	</quest>
 
 	<quest id="tier1_buried_supplies">

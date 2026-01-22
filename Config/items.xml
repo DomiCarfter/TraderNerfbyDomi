@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <set xpath="/items/item[@name='drinkJarGrandpasForgettingElixir']/property[@name='EconomicValue']/@value">
+        3000
+    </set>
+</configs>
